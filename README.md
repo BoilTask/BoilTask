@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=BoilTask&abbreviated=true)
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=BoilTask&abbreviated=true)
 
 <!--
 **BoilTask/BoilTask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
